@@ -1,0 +1,7 @@
+{
+  "name": "Clasificador_Objetos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
